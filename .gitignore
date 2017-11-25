@@ -1,0 +1,8 @@
+.vs
+WinConLib.h
+*_i.c
+*.VC.*
+*.vcxproj.user
+*.vcxproj.filters
+Ansi
+Unicode
